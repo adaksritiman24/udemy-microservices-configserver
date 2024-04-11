@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to The Accounts application - QAs"
   contactDetails:
-    name: "Ratul Sritiman Adak, QA Lead"
+    name: "Nancy, QA Lead"
     email: "{cipher}f79607f42f97477d87f369bad0f3ca0b727ab991ad5d4982465ba8f753e2602d3bd25f2ddff05e24d6b4002001f1ba19"
   onCallSupport:
     - (911) 76473
