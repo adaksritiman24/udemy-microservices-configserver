@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to The Accounts application - QAs"
+  contactDetails:
+    name: "Saber Adak, QA Lead"
+    email: "adaksaber@gmail.com"
+  onCallSupport:
+    - (911) 76473
+    - (102) 437800883--325890-QA

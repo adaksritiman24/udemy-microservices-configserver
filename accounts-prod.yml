@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to The Accounts application -PROD"
+  contactDetails:
+    name: "Charles Jones, Project Principle"
+    email: "cj55@gmail.com"
+  onCallSupport:
+    - (911) 7567889023-PROD
+    - (102) 4378325890

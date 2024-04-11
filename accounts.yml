@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to The Accounts application"
+  contactDetails:
+    name: "Sritiman Adak, Developer"
+    email: "adaksritiman24@gmail.com"
+  onCallSupport:
+    - (911) 7567889023
+    - (102) 4378325890
