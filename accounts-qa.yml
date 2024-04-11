@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to The Accounts application - QAs"
   contactDetails:
-    name: "Saber Adak, QA Lead"
+    name: "Ratul Adak, QA Lead"
     email: "adaksaber@gmail.com"
   onCallSupport:
     - (911) 76473
