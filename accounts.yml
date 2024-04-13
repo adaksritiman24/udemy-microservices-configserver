@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to The Accounts application"
+  message: "Welcome to The Accounts application from Docker inc."
   contactDetails:
     name: "Sritiman Adak, Developer"
     email: "adaksritiman24@gmail.com"
